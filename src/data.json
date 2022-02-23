@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "event": "Finish coding feature at work",
+        "finished": true
+    },
+    {
+        "id":2,
+        "event": "Film content",
+        "finished": true
+    },
+    {
+        "id":3,
+        "event": "Edit short from Tiktok video",
+        "finished": true
+    },
+    {
+        "id":4,
+        "event": "Take Ovan to the groomer",
+        "finished": true
+    }
+]
